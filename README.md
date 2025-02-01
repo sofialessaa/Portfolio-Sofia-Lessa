@@ -5,7 +5,7 @@
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
-* [GIT](https://www.git.com/sofialessaa)
+* [GIT](https://www.github.com/sofialessaa)
 * [LinkedIn](https://www.linkedin.com/sofiamatoslessa)
 
 ## Meus Principais Conhecimentos
