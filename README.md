@@ -1,5 +1,7 @@
 # Sofia Matos Lessa
 
+<img src="https://github.com/user-attachments/assets/7b6aa066-688b-44c1-8e17-304a2abc38d2" width="200">
+
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
@@ -7,7 +9,8 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
 * [LinkedIn](https://www.linkedin.com/sofiamatoslessa)
-
+* [E-mail](mailto:sofialessa@outlook.com.br)
+  
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
