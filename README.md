@@ -12,7 +12,24 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 * [E-mail](mailto:sofialessa@outlook.com.br)
   
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+A área que mais me identifico é a de dados, mas possuo conhecimento em
+tecnologias voltadas ao desenvolvimento back-end e front-end. São elas:
+* JavaScript
+* TypeScript
+* Python
+* CSS
+* HTML
+* React Native
+* Expo
+* Node.js
+* React
+* Jira
+* Figma
+* Trello
+* GitHub
+* Git
+* MySql
+* MongoDB
 
 
 ## Meus Projetos
