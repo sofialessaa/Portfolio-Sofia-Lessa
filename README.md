@@ -83,6 +83,6 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 
 #### Vídeo do projeto - 1º Semestre: TECH SCHOOL
 
-https://github.com/user-attachments/assets/4b91b49b-3c78-49fe-bbc2-c380b4a2b30e
+https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 
 </details>
