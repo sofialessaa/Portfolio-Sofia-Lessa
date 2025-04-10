@@ -81,4 +81,8 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 * Gestão de Tempo: Adotei técnicas de priorização e definição de metas, utilizando ferramentas de planejamento para cumprir os prazos do projeto e maximizar a produtividade.
 * Compromisso: Investi em estudos a parte, e na prática constante de novas tecnologias e frameworks, contribuindo significativamente para o desenvolvimento do front-end e a evolução contínua das minhas habilidades.
 
+#### Vídeo do projeto - 1º Semestre: TECH SCHOOL
+
+https://github.com/user-attachments/assets/4b91b49b-3c78-49fe-bbc2-c380b4a2b30e
+
 </details>
