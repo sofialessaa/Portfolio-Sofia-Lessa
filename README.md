@@ -19,19 +19,19 @@ Estou em busca minha primeira oportunidade profissional na área de tecnologia, 
 
 Embora eu me identifique especialmente com a área de dados, também possuo experiência e conhecimento nas tecnologias voltadas ao desenvolvimento back-end e front-end, além de demonstrar interesse pela área de desenvolvimento full stack. Entre as tecnologias que domino estão:
 
-### • Linguagens
+#### • Linguagens
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | --- | --- | --- | --- | --- |
 
-### • Frameworks & Bibliotecas
+#### • Frameworks & Bibliotecas
 | ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
 | --- | --- | --- |
 
-### • Banco de Dados
+#### • Banco de Dados
 | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) |
 | --- | --- |
 
-### • Ferramentas & Outras Tecnologias
+#### • Ferramentas & Outras Tecnologias
 | ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=jira) | ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
 | --- | --- | --- | --- | --- | --- |
 
