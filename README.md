@@ -13,7 +13,7 @@ Estou em busca da minha primeira oportunidade profissional na área de tecnologi
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
 * [LinkedIn](https://www.linkedin.com/sofiamatoslessa)
-* [E-mail](mailto:sofialessa@outlook.com.br)
+* E-mail: sofialessa@outlook.com.br
   
 ## Meus Principais Conhecimentos
 
