@@ -8,7 +8,7 @@ No final do meu ensino médio, conheci a FATEC e o curso de Análise e Desenvolv
 
 Durante esses anos, tive a oportunidade de aprender diversas tecnologias, como TypeScript, Python, JavaScript, React, MySQL, AWS e Azure, por meio dos projetos realizados na faculdade. Além dos conhecimentos técnicos, desenvolvi habilidades interpessoais e adquiri experiência com metodologias ágeis, atuando como integrante do Dev Team, Product Owner e Scrum Master.
 
-Estou em busca minha primeira oportunidade profissional na área de tecnologia, onde possa contribuir com minha experiência prática e minha capacidade de trabalhar em equipe. Sigo motivada a agregar valor e aprender continuamente.
+Estou em busca da minha primeira oportunidade profissional na área de tecnologia, onde possa contribuir com minha experiência prática e minha capacidade de trabalhar em equipe. Sigo motivada a agregar valor e aprender continuamente.
 
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
