@@ -65,7 +65,8 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Correções e Atualizações de Conteúdo: Revisei e corrigi os textos em diversas seções do site, garantindo clareza e coerência na comunicação.
   * Funcionalidade de Scroll e Retorno ao Topo: Fiz a integração de uma barra de navegação com links âncora para seções específicas (Backlog, Burndown, Kanban e DoR/DoD) junto com um botão para retornar rapidamente ao topo da página, proporcionando uma navegação fluida e eficiente. Usei as seguintes tecnologias: HTML.
   * Desenvolvimento da Paleta de Cores para Modo Light e Dark: Criação e implementação de uma paleta de cores que contempla dois temas (light e dark), proporcionando além de um visual melhor, a organização das cores no projeto. Usei as seguintes tecnologias: CSS.
-
+  * Hospedagem da aplicação web na AWS: participei da hospedagem do site que estava rodando localmente para plataforma AWS.
+    
 #### Hard Skills
 * HTML - Possuo autonomia para ensinar.
 * CSS - Sei fazer com autonomia.
@@ -86,6 +87,6 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 
 #### Acesse o site pelo seu computador ou celular!
-* Link do Projeto [TechScholl](https://techschool.pedrohenribeiro.com/)
+* Link do Projeto [TechSchool](https://techschool.pedrohenribeiro.com/)
 
 </details>
