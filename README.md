@@ -85,4 +85,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 
 https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 
+#### Acesse o site pelo seu computador ou celular!
+* Link do Projeto [TechScholl](https://techschool.pedrohenribeiro.com/)
+
 </details>
