@@ -24,16 +24,16 @@ Embora eu me identifique especialmente com a área de dados, também possuo expe
 | --- | --- | --- | --- | --- |
 
 #### • Frameworks & Bibliotecas
-| ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| --- | --- | --- |
+| ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Expo](https://img.shields.io/badge/expo-1C1C1C.svg?style=for-the-badge&logo=expo&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black) | ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| --- | --- | --- | --- | --- | --- |
 
 #### • Banco de Dados
 | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) |
 | --- | --- |
 
 #### • Ferramentas & Outras Tecnologias
-| ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=jira) | ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
-| --- | --- | --- | --- | --- | --- |
+| ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=jira) | ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| --- | --- | --- | --- | --- | --- | --- | 
 
 ## Meus Projetos
 
