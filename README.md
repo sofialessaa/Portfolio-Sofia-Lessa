@@ -155,7 +155,8 @@ Solução:
 * **JavaScript:** 
 * **React:** 
 * **MySQL:** Utilizado para a criação do banco de dados [...]
-* **NodeJS:** 
+* **NodeJS:**
+* **SCSS:**
 * **Figma:** Ferramenta utilizada para criação de protótipos.
 * **Trello:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
 * **Microsoft Office:** Utilizado na documentação, apresentações e no planejamento geral do projeto.
@@ -177,12 +178,12 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
     
 #### Hard Skills
 * TypeScript - Realizo com auxílio.
-* JavaScript - Realizo com auxílio
+* JavaScript - Sei fazer com autonomia.
 * MySQL - Sei fazer com autonomia. 
 * React - Realizo com auxílio. 
+* SCSS - Sei fazer com autonomia.
 * Figma - Sei fazer com autonomia.
 * GitHub - Possuo autonomia para ensinar.
-* Trello - Possuo autonomia para ensinar.
   
 #### Soft Skills
 * Comunicação:
