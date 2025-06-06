@@ -140,3 +140,57 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 
 </details>
+
+<details>
+  <summary><strong>3º Semestre (2024-1): Dashboard Pro4Tech</strong></summary>
+  
+O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente externo  NOME CLIENTE. PROBLEMA [...]
+
+Solução: 
+
+* [Link do GitHub - Dashboard Pro4Tech (2024-1)](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
+
+#### Tecnologias Utilizadas
+* **TypeScript:**
+* **JavaScript:** 
+* **React:** 
+* **MySQL:** Utilizado para a criação do banco de dados [...]
+* **NodeJS:** 
+* **Figma:** Ferramenta utilizada para criação de protótipos.
+* **Trello:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
+* **Microsoft Office:** Utilizado na documentação, apresentações e no planejamento geral do projeto.
+* **GitHub:** Utilizado para o hospedagem do código e documentação do projeto.
+
+#### Contribuições Pessoais
+Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades que abrangeram tanto a implementação de funcionalidades quanto a melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
+* Organizei os dados retirados dos bancos: Criei rotas GET para obter tanto os dados de itens (quantidade vendida por produto) quanto os totais de vendas mensais, permitindo que as informações fossem agrupadas e ordenadas conforme necessário. Tecnologias utilizadas: JavaScript.
+* Implementação de dados reais nos gráficos: Configurei os componentes de gráfico para se conectarem ao backend e exibirem, em tempo real, os dados vindos do banco de dados, garantindo que os números refletissem sempre as informações atualizadas. Tecnologias utilizadas: React (TypeScript).
+* Ajuste feito na leitura das planilhas de excel: Implementei as especificações necessárias para que o banco de dados pudesse interpretar corretamente a coluna de data importada do Excel, evitando erros de leitura e conversão. Tecnologias utilizadas: JavaScript.
+* Criação da tabela Cliente e função associada: participei do desenvolvimento da tabela Cliente no banco de dados e a função correspondente para importar apenas os campos necessários do arquivo Excel, garantindo que essas informações fossem mapeadas corretamente. Tecnologias utilizadas: React (TypeScript), JavaScript e MySQL.
+* Ajuste de tipos de dados no banco: Modifiquei colunas que estavam como varchar para tipos mais apropriados, como date (para datas) e decimal(10,2) (para valores monetários), aumentando a precisão e consistência dos dados. Tecnologias utilizadas: MySQL.
+* Integração dos dois backends: Unifiquei o projeto de backend principal com o módulo de backend_acesso, permitindo que ambas as partes se comunicassem e compartilhassem dados de forma coesa.
+* Implementação do modo claro: Realizei as alterações necessárias para suportar tanto o dark mode quanto o light mode. Ajustei a paleta de cores do light mode e verifiquei todos os componentes em dark mode para manter a consistência visual. Tecnologias utilizadas: React com TypeScript e SCSS.
+* Método para adicionar vendas: Participei da criação do método de adicionar vendas, implementando o backend, a conectividade com o frontend e o próprio frontend. No frontend, criei também o modal de vendas, ajustando o visual e as fontes. Tecnologias utilizadas: React com TypeScript e SCSS.
+* Formatação de valores nos gráficos e máscaras: Ajustei os componentes de visualização e máscaras no input de valores para que, ao exibir valores, eles aparecessem no formato padrão BRL (pt-BR), mantendo a consistência com o restante da aplicação e facilitando a entrada correta de valores pelos usuários. Tecnologias utilizadas: React (TypeScript).
+* Responsividade dos gráficos: Implementei a responsividade nos gráficos, garantindo que eles se redimensionassem corretamente de acordo com intervalos de dados dinâmicos e diferentes tamanhos de tela. Tecnologias utilizadas: React com TypeScript e SCSS.
+
+    
+#### Hard Skills
+* TypeScript - Realizo com auxílio.
+* JavaScript - Realizo com auxílio
+* MySQL - Sei fazer com autonomia. 
+* React - Realizo com auxílio. 
+* Figma - Sei fazer com autonomia.
+* GitHub - Possuo autonomia para ensinar.
+* Trello - Possuo autonomia para ensinar.
+  
+#### Soft Skills
+* Comunicação:
+* Gestão de Tempo:
+* Compromisso:
+
+#### Vídeo do projeto - 3º Semestre: Dashboard Pro4Tech
+
+https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
+
+</details>
