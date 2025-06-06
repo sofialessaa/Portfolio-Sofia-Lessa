@@ -94,16 +94,16 @@ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 <details>
   <summary><strong>2º Semestre (2023-2): Assistente Zari</strong></summary>
   
-O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente interno  Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. PROBLEMA [...]
+O projeto desenvolvido no primeiro semestre do curso e teve como parceiro o cliente interno  Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
 
-Solução: 
+Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e word, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
 
 * [Link do GitHub - Assistente Zari (2023-2)](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
 #### Tecnologias Utilizadas
-* **JAVA:**
-* **Eclipse:**
-* **Gradle:** 
+* **JAVA:** Utilizada para o desenvolvimento do ChatBot, como a implementação da lógica.
+* **Eclipse:** Ambiente de desenvolvimento integrado (IDE) que fornece ferramentas para escrever, depurar e testar código.
+* **Gradle:** Ferramenta de automação de builds que automatiza processos como compilação, teste, empacotamento e distribuição de software.
 * **MySQL:** Utilizado para a criação do banco de dados, onde armazena os documentos enviados e interações feitas pelo usuário ao ChatBot.
 * **Azure:** Utilizado para hospedagem do banco de dados.
 * **Figma:** Ferramenta utilizada para criação de protótipos.
@@ -116,10 +116,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Desenvolvimento da tela de cadastro: Criei uma interface de cadastro, definindo três campos obrigatórios: nome, e-mail e senha. Para melhorar a usabilidade, implementei um botão que alterna entre mostrar e ocultar a senha. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing.
 * Hospedagem do banco de dados na Azure: hospedei o banco de dados que rodava localmente para a plataforma da Azure.
 * Botão mostrar senha: na tela de login, adicionei a mesma funcionalidade de mostrar e ocultar senha que havia sido implementada na tela de cadastro.
-* Padronização de estilo visual das telas: Uniformizei o layout e os estilos das telas de cadastro e login para que ambas compartilhassem as mesmas cores, fontes e espaçamentos. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing.
+* Padronização de estilo visual das telas: Uniformizei o layout e os estilos das telas de cadastro, login e inicial para que ambas compartilhassem as mesmas cores, fontes e espaçamentos. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing.
 * Definição do tema: defini os temas dos documentos (pdf e word) que são enviados para a Zari analisar e responder às perguntas dos usuários.
 * Implementação do botão de histórico na tela de Perguntas e Respostas: Na interface do chat, inseri um botão “Histórico” que abre uma lista de interações anteriores entre o usuário e o assistente.
-* Ajustes na tela inicial: Na tela inicial da aplicação, revisei os estilos visuais para torná-los compatíveis com as demais telas. Ajustei fontes e tamanhos de texto, reorganizei espaçamentos e alinhei elementos gráficos. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing. 
     
 #### Hard Skills
 * JAVA - Realizo com auxílio.
