@@ -144,9 +144,9 @@ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 <details>
   <summary><strong>3º Semestre (2024-1): Dashboard Pro4Tech</strong></summary>
   
-O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente externo  NOME CLIENTE. PROBLEMA [...]
+O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa Pro4Tech. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
 
-Solução: 
+Solução: Desenvolver uma aplicação werb dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
 
 * [Link do GitHub - Dashboard Pro4Tech (2024-1)](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
@@ -196,7 +196,7 @@ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
 <details>
   <summary><strong>4º Semestre (2024-2): WE COLEB</strong></summary>
   
-O projeto desenvolvido no primeiro semestre do curso e teve como parceiro um cliente externo, empresa JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
+O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
 
 Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
 
@@ -209,6 +209,7 @@ Solução: Desenvolver um sistema web completo em ambiente de produção, com re
 * **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
 * **Node.js:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
 * **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
+* **CSS:** Aplicado para a estilização e o design visual.
 * **Slack:** Platafotma utilizada para comunicação em tempo real com o cliente, facilitando o alinhamento de expectativas, a troca de feedbacks e a rápida resolução de dúvidas.
 * **Trello:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
 * **Microsoft Office:** Utilizado para documentação, apresentações e planejamento geral do projeto.
@@ -231,6 +232,7 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
 * MySQL - Sei fazer com autonomia. 
 * React - Sei fazer com autonomia.
 * NodeJS - Realizo com auxílio.
+* CSS - Sei fazer com autonomia.
 * Slack - Possuo autonomia para ensinar.
 * Figma - Sei fazer com autonomia.
 * GitHub - Possuo autonomia para ensinar.
