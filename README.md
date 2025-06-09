@@ -243,8 +243,65 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
 * Gestão de Tempo:
 * Compromisso:
 
-#### Vídeo do projeto - 3º Semestre: WE COLEB
+#### Vídeo do projeto - 4º Semestre: WE COLEB
 
 https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
+
+</details>
+
+<details>
+  <summary><strong>5º Semestre (2025-1): Recibify</strong></summary>
+  
+O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa GSW Software. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionarios o mais simples e pratico possivel, pois a alta demanda de registros manuais gerava erros e atrasos nas analises, prejudicando os colaboradores e gestores.
+
+Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação, promovendo maior eficiência em todo o processo.
+
+* [Link do GitHub - Recibify (2025-1)](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+
+#### Tecnologias Utilizadas
+* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento; atua como linguagem principal no frontend e no backend.
+* **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
+* **MySQL:** Utilizado para a criação do banco de dados relacional, onde eram armazenados e gerenciados os dados da aplicação.
+* **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
+* **React Native:**
+* **Expo:**
+* **MongoDB:**
+* **Android Studio:**
+* **Node.js:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
+* **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
+* **CSS:** Aplicado para a estilização e o design visual.
+* **Slack:** Platafotma utilizada para comunicação em tempo real com o cliente, facilitando o alinhamento de expectativas, a troca de feedbacks e a rápida resolução de dúvidas.
+* **Jira:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
+* **Microsoft Office:** Utilizado para documentação, apresentações e planejamento geral do projeto.
+* **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
+
+#### Contribuições Pessoais
+Durante o desenvolvimento deste projeto, atuei como Scrum Master, centralizando a comunicação com o cliente, definindo requisitos, priorizando funcionalidades e gerenciando o backlog, além de contribuir diretamente no desenvolvimento de código para implementar as soluções que atendiam as necessidades do cliente. Seguem as principais contribuições:
+
+    
+#### Hard Skills
+* TypeScript - Realizo com auxílio.
+* JavaScript - Sei fazer com autonomia.
+* MySQL - Sei fazer com autonomia. 
+* React - Sei fazer com autonomia.
+* ReactNative -
+* MongoDB -
+* Expo -
+* Android Studio -
+* NodeJS - Realizo com auxílio.
+* CSS - Sei fazer com autonomia.
+* Slack - Possuo autonomia para ensinar.
+* Figma - Sei fazer com autonomia.
+* GitHub - Possuo autonomia para ensinar.
+* Jira - Possuo autonomia para ensinar.
+  
+#### Soft Skills
+* Comunicação:
+* Gestão de Tempo:
+* Compromisso:
+
+#### Vídeo do projeto - 5º Semestre: Recibify
+
+VIDEO AQUI
 
 </details>
