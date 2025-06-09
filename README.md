@@ -8,7 +8,7 @@ No final do meu ensino médio, conheci a FATEC e o curso de Análise e Desenvolv
 
 Durante esses anos, tive a oportunidade de aprender diversas tecnologias, como TypeScript, Python, JavaScript, React, MySQL, AWS e Azure, por meio dos projetos realizados na faculdade. Além dos conhecimentos técnicos, desenvolvi habilidades interpessoais e adquiri experiência com metodologias ágeis, atuando como integrante do Dev Team, Product Owner e Scrum Master.
 
-Estou em busca da minha primeira oportunidade profissional na área de tecnologia, onde possa contribuir com minha experiência prática e minha capacidade de trabalhar em equipe. Sigo motivada a agregar valor e aprender continuamente.
+Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especializada principalmente em soluções de Internet das Coisas (IoT), capturando e analisando dados de sensores conectados para gerar insights que otimizam processos e suportam a tomada de decisão. Atuo no desenvolvimento de soluções IoT (integrando hardware e software), criação de dashboards, aplicativos, sistemas web e outras ferramentas de análise de dados para atender às necessidades dos clientes.
 
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
@@ -144,19 +144,19 @@ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 <details>
   <summary><strong>3º Semestre (2024-1): Dashboard Pro4Tech</strong></summary>
   
-O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa Pro4Tech. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
+O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia Pro4Tech. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
 
 Solução: Desenvolver uma aplicação werb dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
 
 * [Link do GitHub - Dashboard Pro4Tech (2024-1)](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
 #### Tecnologias Utilizadas
-* **TypeScript:**
-* **JavaScript:** 
-* **React:** 
+* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento. Atua como linguagem principal no frontend e no backend.
+* **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
+* **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
 * **MySQL:** Utilizado para a criação do banco de dados [...]
-* **NodeJS:**
-* **SCSS:**
+* **NodeJS:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
+* **SCSS:** Aplicado para a estilização e o design visual.
 * **Figma:** Ferramenta utilizada para criação de protótipos.
 * **Trello:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
 * **Microsoft Office:** Utilizado na documentação, apresentações e no planejamento geral do projeto.
@@ -196,14 +196,14 @@ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
 <details>
   <summary><strong>4º Semestre (2024-2): WE COLEB</strong></summary>
   
-O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
+O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
 
 Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
 
 * [Link do GitHub - WE COLEB (2024-2)](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
 
 #### Tecnologias Utilizadas
-* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento; atua como linguagem principal no frontend e no backend.
+* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento. Atua como linguagem principal no frontend e no backend.
 * **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
 * **MySQL:** Utilizado para a criação do banco de dados relacional, onde eram armazenados e gerenciados os dados da aplicação.
 * **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
@@ -252,48 +252,54 @@ https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
 <details>
   <summary><strong>5º Semestre (2025-1): Recibify</strong></summary>
   
-O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa GSW Software. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionarios o mais simples e pratico possivel, pois a alta demanda de registros manuais gerava erros e atrasos nas analises, prejudicando os colaboradores e gestores.
+O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia GSW Software. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionarios o mais simples e pratico possivel, pois a alta demanda de registros manuais gerava erros e atrasos nas analises, prejudicando os colaboradores e gestores.
 
 Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação, promovendo maior eficiência em todo o processo.
 
 * [Link do GitHub - Recibify (2025-1)](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
 #### Tecnologias Utilizadas
-* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento; atua como linguagem principal no frontend e no backend.
-* **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
-* **MySQL:** Utilizado para a criação do banco de dados relacional, onde eram armazenados e gerenciados os dados da aplicação.
-* **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
-* **React Native:**
-* **Expo:**
-* **MongoDB:**
-* **Android Studio:**
-* **Node.js:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
-* **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
+* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento. Atua como linguagem principal no frontend e no backend.
+* **MySQL:** Utilizado para a criação do banco de dados relacional, onde eram armazenados e gerenciados as fotos dos usuários e comprovantes.
+* **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis no sistema web.
+* **React Native:** Utilizado para a criação do aplicativo.
+* **Expo:** Framework usado para desenvolvimento do aplicativo em React Native.
+* **MongoDB:** Utilizado para a criação do banco de dados não relacional, onde eram armazenados e gerenciados os dados da aplicação mobile e web.
+* **Android Studio:** Ambiente para testar o aplicativo e para gerar o APK.
+* **Node.js:** Utilizado no backend para a criação de APIs, implementação da lógica integrada ao banco de dados e na integração do mobile com o web.
 * **CSS:** Aplicado para a estilização e o design visual.
-* **Slack:** Platafotma utilizada para comunicação em tempo real com o cliente, facilitando o alinhamento de expectativas, a troca de feedbacks e a rápida resolução de dúvidas.
+* **GIT:** Sistema de controle de versão utilizado para gerenciar o histórico de alterações, organizar branches, manipular commits, atualizar submódulos e integrar diferentes repositórios.
+* **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
 * **Jira:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
 * **Microsoft Office:** Utilizado para documentação, apresentações e planejamento geral do projeto.
 * **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
 
 #### Contribuições Pessoais
-Durante o desenvolvimento deste projeto, atuei como Scrum Master, centralizando a comunicação com o cliente, definindo requisitos, priorizando funcionalidades e gerenciando o backlog, além de contribuir diretamente no desenvolvimento de código para implementar as soluções que atendiam as necessidades do cliente. Seguem as principais contribuições:
-
+Durante o desenvolvimento do projeto, atuei como Scrum Master, centralizando a comunicação com o time e garantindo o fluxo organizado das atividades. Coordenei a divisão de tarefas em sprints, mantendo todos alinhados sobre prioridades e prazos. Além disso, conduzi reuniões entre o grupo, monitorando o progresso, removendo impedimentos e contribuindo diretamente no desenvolvimento de código para entregar soluções que atendiam às necessidades do cliente. Seguem as principais contribuições:
+* Organização de tarefas: Dividi o backlog em epics e histórias de usuário, atribuí responsáveis e incluí descrições detalhadas em cada tarefa, o que melhorou a visibilidade e o entendimento da equipe sobre o escopo de cada ponto. Tecnologias utilizadas: Jira e Excel.
+* Padronização de repositório no GitHub: Estabeleci padrões de nomenclatura para branches e commits (baseadas em Git Flow).
+* Implementação da lógica de Login e Cadastro: Modelagem da tabela de usuários, implementação de rotas de login e cadastro com JWT no backend (Node.js/TypeScript/MongoDB) e integração de estado via Redux Toolkit no app React Native (Expo).
+* Funcionalidade de upload de comprovantes no Android: participei do upload de comprovantes, atuando principalmente na parte do upload no android. Tecnologias utilizadas: TypeScript, React Native e Expo.
+* Campos dinâmicos e descrição opcional em registro de despesas: implementei lógica condicional para exibir campos adicionais ao selecionar categorias “Material” e “Transporte” e tornei o campo de descrição opcional. Tecnologias utilizadas: TypeScript, React Native e Expo.
+* Notificação de mudança de status: criei no backend uma tabela de alterações de status e desenvolvi um mecanismo de notificação local no app que informa o usuário assim que seu pedido de reembolso é aprovado ou rejeitado. Tecnologias utilizadas: Node.js/TypeScript/MongoDB, React Native (Expo).
+* Ajustes visuais nas telas de informação e pré-registro: Telas (CSS e React Native) alinhadas ao protótipo no Figma, otimizando usabilidade e consistência de layout..
+* Controle de versão com Git: Utilizei o Git como sistema de controle de versão para gerenciar o histórico de alterações no código-fonte do projeto. Realizei operações como atualização de submódulos, organização de branches, manipulação de commits e integração entre repositórios, garantindo rastreabilidade, colaboração eficiente e maior controle sobre o desenvolvimento.
+* Sistema web corporativo: Implementação das interfaces de cadastro e listagem (categorias, departamentos e funcionários) com filtros de pesquisa e edição inline, assegurando conectividade com o backend e facilidade de manutenção. Tecnologias utilizadas: React e TypeScript.
     
 #### Hard Skills
 * TypeScript - Realizo com auxílio.
-* JavaScript - Sei fazer com autonomia.
 * MySQL - Sei fazer com autonomia. 
 * React - Sei fazer com autonomia.
-* ReactNative -
-* MongoDB -
-* Expo -
-* Android Studio -
+* React Native - Sei fazer com autonomia.
+* MongoDB - Sei fazer com autonomia.
+* Expo - Realizo com auxílio.
+* Android Studio - Realixo com auxílio.
 * NodeJS - Realizo com auxílio.
 * CSS - Sei fazer com autonomia.
-* Slack - Possuo autonomia para ensinar.
+* GIT - Sei fazer com autonomia.
 * Figma - Sei fazer com autonomia.
 * GitHub - Possuo autonomia para ensinar.
-* Jira - Possuo autonomia para ensinar.
+* Jira - Sei fazer com autonomia.
   
 #### Soft Skills
 * Comunicação:
@@ -302,6 +308,6 @@ Durante o desenvolvimento deste projeto, atuei como Scrum Master, centralizando 
 
 #### Vídeo do projeto - 5º Semestre: Recibify
 
-VIDEO AQUI
+https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
 
 </details>
