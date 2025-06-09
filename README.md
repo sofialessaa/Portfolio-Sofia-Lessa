@@ -245,6 +245,6 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
 
 #### Vídeo do projeto - 3º Semestre: WE COLEB
 
-VIDEO AQUI
+https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
 
 </details>
