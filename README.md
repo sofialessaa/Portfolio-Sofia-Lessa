@@ -241,8 +241,8 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
 * Gestão de Tempo:
 * Compromisso:
 
-#### Vídeo do projeto - 2º Semestre: Assistente Zari
+#### Vídeo do projeto - 3º Semestre: WE COLEB
 
-https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
+VIDEO AQUI
 
 </details>
