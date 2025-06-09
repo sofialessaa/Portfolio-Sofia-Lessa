@@ -177,7 +177,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 * TypeScript - Realizo com auxílio.
 * JavaScript - Sei fazer com autonomia.
 * MySQL - Sei fazer com autonomia. 
-* React - Realizo com auxílio. 
+* React - Sei fazer com autonomia. 
 * SCSS - Sei fazer com autonomia.
 * Figma - Sei fazer com autonomia.
 * GitHub - Possuo autonomia para ensinar.
@@ -190,5 +190,59 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 #### Vídeo do projeto - 3º Semestre: Dashboard Pro4Tech
 
 https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
+
+</details>
+
+<details>
+  <summary><strong>4º Semestre (2024-2): WE COLEB</strong></summary>
+  
+O projeto desenvolvido no primeiro semestre do curso e teve como parceiro um cliente externo, empresa JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
+
+Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
+
+* [Link do GitHub - WE COLEB (2024-2)](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
+
+#### Tecnologias Utilizadas
+* **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento; atua como linguagem principal no frontend e no backend.
+* **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
+* **MySQL:** Utilizado para a criação do banco de dados relacional, onde eram armazenados e gerenciados os dados da aplicação.
+* **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
+* **Node.js:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
+* **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
+* **Slack:** Platafotma utilizada para comunicação em tempo real com o cliente, facilitando o alinhamento de expectativas, a troca de feedbacks e a rápida resolução de dúvidas.
+* **Trello:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
+* **Microsoft Office:** Utilizado para documentação, apresentações e planejamento geral do projeto.
+* **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
+
+#### Contribuições Pessoais
+Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando a comunicação com o cliente, definindo requisitos, priorizando funcionalidades e gerenciando o backlog, além de contribuir diretamente no desenvolvimento de código para implementar as soluções que atendiam as necessidades do cliente. Seguem as principais contribuições:
+* Comunicação com o cliente: conduzi reuniões para entender requisitos, alinhar expectativas e repassar feedback ao time, assegurando que as soluções desenvolvidas atendessem às necessidades do cliente. Tecnologias utilizadas: Slack e Google Meet.
+* Criação do Backlog e User Stories: organizei em planilha Excel o backlog do produto e as user stories, detalhando funcionalidades, cenários de uso e critérios de aceitação, e priorizando entregas conforme impacto para o cliente.
+* Organização do README no GitHub: estruturei o README do repositório, com visão geral do projeto, convenções adotadas, orientações para contribuição e guia de instalação do projeto.
+* Criação da página Lista de Clientes: implementei o CRUD completo com cadastro de campos básicos e múltiplos endereços, validei entradas para manter a integridade dos dados e adicionei filtros dinâmicos para facilitar a busca pelos nomes dos clientes. Tecnologias: React (JavaScript), CSS e MySQL.
+* Organizei o Trello: Dividi as user stories em cards no Trello, atribuí responsáveis e sincronizei tudo em uma planilha para monitorar o progresso, alinhar prioridades e otimizar o planejamento das sprints.
+* Criação da página Detalhes do Cliente: desenvolvi uma tela de visualização que apresenta todos os registros do cliente selecionado. Tecnologias Utilizadas: React(JavaScript) e CSS.
+* Modal de Edição de Cliente: criei e integrei um modal responsivo para editar os campos do cliente sem sair da lista. Tecnologias Utilizadas: React(JavaScript) e CSS.
+* Aprimoramentos no FrontEnd: participei da melhora do layout e a usabilidade geral do projeto. Tecnologias Utilizadas: React(JavaScript) e CSS.
+    
+#### Hard Skills
+* TypeScript - Realizo com auxílio.
+* JavaScript - Sei fazer com autonomia.
+* MySQL - Sei fazer com autonomia. 
+* React - Sei fazer com autonomia.
+* NodeJS - Realizo com auxílio.
+* Slack - Possuo autonomia para ensinar.
+* Figma - Sei fazer com autonomia.
+* GitHub - Possuo autonomia para ensinar.
+* Trello - Possuo autonomia para ensinar.
+  
+#### Soft Skills
+* Comunicação:
+* Gestão de Tempo:
+* Compromisso:
+
+#### Vídeo do projeto - 2º Semestre: Assistente Zari
+
+https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 
 </details>
