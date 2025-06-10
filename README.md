@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 <details>
   <summary><strong>2º Semestre (2023-2): Assistente Zari</strong></summary>
   
-O projeto desenvolvido no segundo semestre do curso e teve como parceiro o cliente interno  Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
+O projeto desenvolvido no segundo semestre do curso teve como parceiro o cliente interno Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
 
 Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e txt, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
 
