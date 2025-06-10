@@ -40,7 +40,7 @@ Embora eu me identifique especialmente com a área de dados, também possuo expe
 <details>
   <summary><strong>1º Semestre (2023-1): TECH SCHOOL</strong></summary>
   
-O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente interno Antônio Egydio São Tiago Graça - FATEC São José dos Campos – SP. A necessidade surgiu a partir do interesse da empresa em implementar o método ágil SCRUM no ambiente de trabalho. No entanto, os colaboradores ainda não possuíam conhecimento suficiente sobre a metodologia, o que dificultava sua aplicação prática no dia a dia. 
+O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente interno **Antônio Egydio São Tiago Graça** - FATEC São José dos Campos – SP. A necessidade surgiu a partir do interesse da empresa em implementar o método ágil SCRUM no ambiente de trabalho. No entanto, os colaboradores ainda não possuíam conhecimento suficiente sobre a metodologia, o que dificultava sua aplicação prática no dia a dia. 
 
 Solução: Desenvolver um site informativo simples e funcional sobre a metodologia ágil SCRUM. O site deve apresentar conceitos, fundamentos e exemplos práticos, complementados por avaliações interativas para os usuários. A proposta foi auxiliar na comunicação e incentivar o uso da metodologia, contribuindo para uma melhor organização e eficiência dos funcionários. 
 
@@ -81,6 +81,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
 * **Criatividade:** Durante a fase de prototipação no Figma, dediquei-me a explorar diversas combinações de layout e paletas de cores para tornar o site mais atraente e intuitivo. Usei minhas habilidades de criatividade para criar componentes visuais únicos.
 * **Flexibilidade:** Em várias reviews de protótipo, recebi críticas e sugestões que iam contra minhas primeiras ideias. Usei minhas habilidades de flexibilidade para reavaliar o design, incorporar o feedback do time e do cliente e ajustar o fluxo de navegação, o que resultou em um protótipo mais alinhado às expectativas de todos. Por exemplo, quando meu protótipo não foi selecionado, prontifiquei-me a ajustar o segundo modelo com as últimas recomendações, garantindo que ele atendesse plenamente às necessidades do cliente.
 * **Comunicação:** Durante o desenvolvimento do projeto, mantive o grupo sempre informado no chat do WhatsApp, compartilhando atualizações sobre o status das minhas tarefas e avisando quando completava cada etapa. Usei minhas habilidades de comunicação para esclarecer dúvidas em tempo real e garantir que ninguém ficasse sem direcionamento.
+* **Organização:** Durante a fase de escolha de cores, estudei diferentes paletas adequadas para um site educacional e elaborei um PDF detalhado explicando o significado e a função de cada tom, para que o grupo pudesse decidir de forma fundamentada. Usei minhas habilidades de organização para consolidar informações complexas em um guia claro, facilitando a seleção colaborativa da paleta.
+* **Responsabilidade:** Quando tive um atraso por causa de outra disciplina, certifiquei-me de avisar imediatamente o time no WhatsApp sobre meu impedimento, explicando o motivo e sugerindo novas estimativas de entrega. Usei minhas habilidades de comunicação para garantir que ninguém fosse pego de surpresa e que todas as entregas fossem replanejadas sem comprometer o cronograma.
+* **Proatividade:** Após finalizar o protótipo inicial, desenhei à mão um modelo alternativo com layout mais moderno e compartilhei no grupo assim que ficou pronto, convidando todos a darem feedback. Usei minha proatividade para antecipar necessidades de design e engajar o time na evolução do layout do site. 
 
 ### Vídeo do projeto - 1º Semestre: TECH SCHOOL
 
@@ -94,7 +97,7 @@ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 <details>
   <summary><strong>2º Semestre (2023-2): Assistente Zari</strong></summary>
   
-O projeto desenvolvido no segundo semestre do curso teve como parceiro o cliente interno Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
+O projeto desenvolvido no segundo semestre do curso teve como parceiro o cliente interno **Giuliano Araujo Bertoti** - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
 
 Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e txt, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
 
@@ -115,9 +118,8 @@ Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analis
 Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades que abrangeram tanto a implementação de funcionalidades quanto a melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
   * **Desenvolvimento da tela de cadastro:** Criei uma interface de cadastro, definindo três campos obrigatórios: nome, e-mail e senha. Para melhorar a usabilidade, implementei um botão que alterna entre mostrar e ocultar a senha. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing.
   * **Hospedagem do banco de dados na Azure:** Hospedei o banco de dados que rodava localmente para a plataforma da Azure.
-  * **Botão mostrar senha:** Na tela de login, adicionei a mesma funcionalidade de mostrar e ocultar senha que havia sido implementada na tela de cadastro.
   * **Padronização de estilo visual das telas:** Uniformizei o layout e os estilos das telas de cadastro, login e inicial para que ambas compartilhassem as mesmas cores, fontes e espaçamentos. Tecnologias utilizadas: Java, WindowBuilder do Eclipse e Swing.
-  * **Definição do tema:** Defini os temas dos documentos (pdf e word) que são enviados para a Zari analisar e responder às perguntas dos usuários.
+  * **Definição do tema:** Defini os temas dos documentos (pdf e txt) que são enviados para a Zari analisar e responder às perguntas dos usuários.
   * **Implementação do botão de histórico na tela de Perguntas e Respostas:** Na interface do chat, inseri um botão “Histórico” que abre uma lista de interações anteriores entre o usuário e o assistente.
       
 ### Hard Skills
@@ -131,7 +133,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Trello - Possuo autonomia para ensinar.
   
 ### Soft Skills
-  * **Comunicação:** Durante a integração do novo membro, percebi que ele não tinha acesso aos canais de comunicação. Usei minhas habilidades de comunicação para enviar imediatamente o link do nosso servidor Discord e adicioná-lo ao Microsoft Teams, garantindo que ele pudesse tirar dúvidas e participar das discussões desde o primeiro dia.
+  * **Comunicação:** Durante a integração do novo membro, percebi que ele não tinha acesso aos canais de comunicação. Usei minhas habilidades de comunicação para enviar imediatamente o link do nosso servidor Discord e adicioná-lo a equipe no Microsoft Teams, garantindo que ele pudesse tirar dúvidas e participar das discussões desde o primeiro dia.
   * **Organização:** Para facilitar a demonstração na feira de soluções, organizei todos os arquivos de teste (pdf e txt) que a Zari iria processar, criando um roteiro de perguntas pré-definido para os visitantes. Essa organização agilizou as demonstrações e garantiu que nenhum teste fosse esquecido.
   * **Feedback e Decisão Compartilhada:** Para definir o tema da API, criei um formulário online (Google Forms) e convidei todos a sugerirem ideias. Usei minhas habilidades de facilitação para recolher opiniões, compilar os resultados e apresentar ao time uma proposta baseada nas preferências da maioria, promovendo engajamento e senso de propriedade no projeto.
   * **Iniciativa de Ensino:** Depois de configurar o banco de dados na nuvem Azure, detectei que nem todos sabiam como conectar suas máquinas. Usei minha iniciativa de ensino para elaborar um tutorial passo a passo, com capturas de tela, e compartilhei no chat do whatsapp, capacitando toda a equipe a trabalhar com o banco remoto.
@@ -145,9 +147,9 @@ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 <details>
   <summary><strong>3º Semestre (2024-1): Dashboard Pro4Tech</strong></summary>
   
-O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia Pro4Tech. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
+O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **Pro4Tech**. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
 
-Solução: Desenvolver uma aplicação werb dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
+Solução: Desenvolver uma aplicação web dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
 
 * [Link do GitHub - Dashboard Pro4Tech (2024-1)](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
@@ -155,7 +157,7 @@ Solução: Desenvolver uma aplicação werb dinâmica e eficiente para análise 
   * **TypeScript:** Utilizado para aumentar a segurança, organização e produtividade no desenvolvimento. Atua como linguagem principal no frontend e no backend.
   * **JavaScript:** Utilizado na criação de scripts para processamento de dados e na estruturação da lógica da interface, conferindo dinamismo e interatividade ao usuário.
   * **React:** Biblioteca utilizada para o desenvolvimento da interface do usuário com componentes responsivos e reutilizáveis.
-  * **MySQL:** Utilizado para a criação do banco de dados [...]
+  * **MySQL:** Utilizado para a criação do banco de dados, onde armazena todos os dados da aplicação.
   * **NodeJS:** Utilizado no backend para a criação de APIs e implementação da lógica integrada ao banco de dados.
   * **SCSS:** Aplicado para a estilização e o design visual.
   * **Figma:** Ferramenta utilizada para criação de protótipos.
@@ -166,7 +168,7 @@ Solução: Desenvolver uma aplicação werb dinâmica e eficiente para análise 
 ### Contribuições Pessoais
 Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades que abrangeram tanto a implementação de funcionalidades quanto a melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
   * **Rotas e visualização em tempo real:** Criei rotas GET para fornecer dados de vendas (quantidade por produto e totais mensais) e integrei esses endpoints em gráficos React para exibir os números sempre atualizados. Tecnologias: JavaScript, React (TypeScript) e MySQL.
-  * **Ajuste feito na leitura das planilhas de excel:** Implementei as especificações necessárias para que o banco de dados pudesse interpretar corretamente a coluna de data importada do Excel, evitando erros de leitura e conversão. Tecnologias utilizadas: JavaScript.
+  * **Ajuste feito na leitura das planilhas de excel:** Implementei as especificações necessárias para que o banco de dados pudesse interpretar corretamente a coluna de data importada do Excel, evitando erros de leitura e conversão. Tecnologias utilizadas: JavaScript e MySQL.
   * **Criação da tabela Cliente e função associada:** Participei do desenvolvimento da tabela Cliente no banco de dados e a função correspondente para importar apenas os campos necessários do arquivo Excel, garantindo que essas informações fossem mapeadas corretamente. Tecnologias utilizadas: React (TypeScript), JavaScript e MySQL.
   * **Implementação do modo claro:** Realizei as alterações necessárias para suportar tanto o dark mode quanto o light mode. Ajustei a paleta de cores do light mode e verifiquei todos os componentes em dark mode para manter a consistência visual. Tecnologias utilizadas: React com TypeScript e SCSS.
   * **Método para adicionar vendas:** Participei da criação do método de adicionar vendas, implementando o backend, a conectividade com o frontend e o próprio frontend. No frontend, criei também o modal de vendas, ajustando o visual e as fontes. Tecnologias utilizadas: React com TypeScript e SCSS.
@@ -183,9 +185,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * GitHub - Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação: Avisava imediatamente no grupo de WhatsApp sempre que alteramos a estrutura da planilha Excel usada como fonte, informando exatamente qual pasta e subpasta no Teams continha o novo arquivo, para que ninguém perdesse tempo procurando ou trabalhado com versão desatualizada.
-* Proatividade: No primeiro dia da sprint, finalizei toda a tarefa de implementação do modo claro, muito antes do prazo e me ofereci em seguida para ajudar colegas em suas demandas, acelerando o progresso geral do time.
-* Trabalho em equipe Assim que entreguei o modo claro, me voluntariei para assumir novas tarefas que ainda estavam pendentes, colaborando diretamente com colegas que precisavam de apoio e assegurando que nenhum item da sprint ficasse para trás.
+* **Comunicação:** Avisava imediatamente no grupo de WhatsApp sempre que alteramos a estrutura da planilha Excel usada como fonte, informando exatamente qual pasta e subpasta no Teams continha o novo arquivo, para que ninguém perdesse tempo procurando ou trabalhando com versão desatualizada.
+* **Proatividade:** No primeiro dia de uma sprint, finalizei toda a tarefa de implementação do modo claro, muito antes do prazo e me ofereci em seguida para ajudar colegas em suas demandas, acelerando o progresso geral do time.
+* **Trabalho em equipe:** Assim que entreguei o modo claro, me voluntariei para assumir novas tarefas que ainda estavam pendentes, colaborando diretamente com colegas que precisavam de apoio e assegurando que nenhum item da sprint ficasse para trás.
 
 ### Vídeo do projeto - 3º Semestre: Dashboard Pro4Tech
 
@@ -196,7 +198,7 @@ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
 <details>
   <summary><strong>4º Semestre (2024-2): WE COLEB</strong></summary>
   
-O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística JJM Log. A necessidade surgiu a partir da dificuldade da JJM LOG em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
+O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística **JJM Log**. A necessidade surgiu a partir da dificuldade da JJM Log em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
 
 Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
 
@@ -224,7 +226,7 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
   * **Organizei o Trello:** Dividi as user stories em cards no Trello, atribuí responsáveis e sincronizei tudo em uma planilha para monitorar o progresso, alinhar prioridades e otimizar o planejamento das sprints.
   * **Criação da página Detalhes do Cliente:** Desenvolvi uma tela de visualização que apresenta todos os registros do cliente selecionado. Tecnologias Utilizadas: React(JavaScript) e CSS.
   * **Modal de Edição de Cliente:** Criei e integrei um modal responsivo para editar os campos do cliente sem sair da lista. Tecnologias Utilizadas: React(JavaScript) e CSS.
-  * **Aprimoramentos no FrontEnd:** Participei da melhora do layout e a usabilidade geral do projeto. Tecnologias Utilizadas: React(JavaScript) e CSS.
+  * **Aprimoramentos no Frontend:** Participei da melhora do layout e a usabilidade geral do projeto. Tecnologias Utilizadas: React(JavaScript) e CSS.
     
 ### Hard Skills
   * TypeScript - Realizo com auxílio.
@@ -242,7 +244,7 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
 * **Comunicação:** Durante as sessões de levantamento de requisitos, mantive contato constante com o cliente JJM Log, enviando perguntas claras e objetivas sempre que surgia uma dúvida da equipe, por exemplo, sobre o fluxograma de processos. Usei minhas habilidades de comunicação para repassar imediatamente ao cliente todas as questões levantadas e garantir que as respostas chegassem ao time em tempo real, evitando retrabalho e atrasos.
 * **Liderança:** Durante a definição das sprints, organizei uma reunião em que estabeleci as prioridades do backlog e esclareci expectativas com toda a equipe. Usei minhas habilidades de liderança para conduzir o debate, alinhar responsabilidades e motivar cada membro a assumir seus cards no Trello, o que aumentou o engajamento e acelerou o ritmo de entrega.
 * **Trabalho em Equipe:** Ao perceber que alguns colegas estavam sobrecarregados, ofereci ajuda para redistribuir tarefas menores e conversei com a professora responsável sobre ajustes de escopo para evitar burnout. Usei minhas habilidades de trabalho em equipe para manter o equilíbrio de esforço e assegurar que ninguém ficasse sem suporte ao longo da sprint.
-* **Gestão de Tempo:** Ao descobrir que tarefas menores estavam travando o progresso geral, reorganizei o backlog para encaixar tarefas rápidas entre atividades maiores, equilibrando urgência e esforço e mantendo as entregas sempre dentro do prazo.
+* **Gestão de Tempo:** Ao descobrir que tarefas menores estavam travando o progresso geral, reorganizei o backlog para encaixar tarefas rápidas entre atividades maiores, equilibrando urgência e esforço e mantendo as entregas sempre dentro do prazo. Por exemplo, tinha muitas tarefas simples que eram deixadas para fazer em última hora e isso prejudicava o andamento de outras tarefas.
 
 ### Vídeo do projeto - 4º Semestre: WE COLEB
 
@@ -253,9 +255,9 @@ https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
 <details>
   <summary><strong>5º Semestre (2025-1): Recibify</strong></summary>
   
-O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia GSW Software. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionarios o mais simples e pratico possivel, pois a alta demanda de registros manuais gerava erros e atrasos nas analises, prejudicando os colaboradores e gestores.
+O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **GSW Software**. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionários o mais simples e prático possível, pois a alta demanda de registros manuais gerava erros e atrasos nas análises, prejudicando os colaboradores e gestores.
 
-Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação, promovendo maior eficiência em todo o processo.
+Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação de reembolso, promovendo maior eficiência em todo o processo.
 
 * [Link do GitHub - Recibify (2025-1)](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
@@ -303,7 +305,7 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master, centralizando a c
   * Jira - Sei fazer com autonomia.
   
 ### Soft Skills
-  * **Organização:** Antes mesmo das Sprints Reviews, organizava todas as tarefas no Jira e em uma planilha Excel, detalhando descrições e dependências. Usei minhas habilidades de organização para garantir que cada membro soubesse exatamente o que fazer desde o primeiro dia, evitando sobrecarga e atrasos.
+  * **Organização:** Antes mesmo das começarem Sprints Reviews, já organizava todas as tarefas no Jira e em uma planilha Excel, detalhando descrições e dependências. Usei minhas habilidades de organização para garantir que cada membro soubesse exatamente o que fazer desde o primeiro dia, evitando sobrecarga e atrasos.
   * **Empatia:** Notei que uma colega tinha dificuldade com comandos Git Bash. Sendo assim, usei minhas habilidades de empatia para criar e compartilhar um tutorial passo a passo, permitindo que ela ganhasse confiança e autonomia no versionamento de código.
   * **Proatividade:** No final de cada sprint, realizava testes completos no app e já me antecipava para resolver os bugs encontrados, garantindo entregas estáveis.
   * **Assertividade:** Sempre cobrava o time para manter o Jira atualizado e seguirmos as convenções de branches e commits. Usei minha assertividade para lembrar os colegas dos padrões previamente definidos, o que manteve o quadro de tarefas sempre organizado e compreensível.
