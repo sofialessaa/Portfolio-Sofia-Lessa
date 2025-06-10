@@ -12,7 +12,7 @@ Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especia
 
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
-* [LinkedIn](https://www.linkedin.com/sofiamatoslessa)
+* [LinkedIn](www.linkedin.com/in/sofiamatoslessa)
 * E-mail: sofialessa@outlook.com.br
   
 ## Meus Principais Conhecimentos
