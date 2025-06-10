@@ -78,9 +78,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Github- Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação: Utilizei aplicativos como Trello e Microsoft Teams, além de participar ativamente de reuniões e trocar mensagens para compartilhar informações, ideias e feedbacks de forma ágil, promovendo um ambiente colaborativo e integrado. Um exemplo disso foi quando 
-* Gestão de Tempo: Adotei técnicas de priorização e definição de metas, utilizando ferramentas de planejamento para cumprir os prazos do projeto e maximizar a produtividade.
-* Compromisso: Investi em estudos a parte, e na prática constante de novas tecnologias e frameworks, contribuindo significativamente para o desenvolvimento do front-end e a evolução contínua das minhas habilidades.
+
 
 ### Vídeo do projeto - 1º Semestre: TECH SCHOOL
 
@@ -96,7 +94,7 @@ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
   
 O projeto desenvolvido no primeiro semestre do curso e teve como parceiro o cliente interno  Giuliano Araujo Bertoti - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
 
-Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e word, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
+Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e txt, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
 
 * [Link do GitHub - Assistente Zari (2023-2)](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
@@ -131,9 +129,10 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Trello - Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação:
-* Gestão de Tempo:
-* Compromisso:
+  * **Comunicação:** Durante a integração do novo membro, percebi que ele não tinha acesso aos canais de comunicação. Usei minhas habilidades de comunicação para enviar imediatamente o link do nosso servidor Discord e adicioná-lo ao Microsoft Teams, garantindo que ele pudesse tirar dúvidas e participar das discussões desde o primeiro dia.
+  * **Organização:** Para facilitar a demonstração na feira de soluções, organizei todos os arquivos de teste (pdf e txt) que a Zari iria processar, criando um roteiro de perguntas pré-definido para os visitantes. Essa organização agilizou as demonstrações e garantiu que nenhum teste fosse esquecido.
+  * **Feedback e Decisão Compartilhada:** Para definir o tema da API, criei um formulário online (Google Forms) e convidei todos a sugerirem ideias. Usei minhas habilidades de facilitação para recolher opiniões, compilar os resultados e apresentar ao time uma proposta baseada nas preferências da maioria, promovendo engajamento e senso de propriedade no projeto.
+  * **Iniciativa de Ensino:** Depois de configurar o banco de dados na nuvem Azure, detectei que nem todos sabiam como conectar suas máquinas. Usei minha iniciativa de ensino para elaborar um tutorial passo a passo, com capturas de tela, e compartilhei no chat do whatsapp, capacitando toda a equipe a trabalhar com o banco remoto.
 
 ### Vídeo do projeto - 2º Semestre: Assistente Zari
 
