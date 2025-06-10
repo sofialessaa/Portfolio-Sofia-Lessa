@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/7b6aa066-688b-44c1-8e17-304a2abc38d2" width="200">
 
-Oioi, eu sou Sofia Matos Lessa, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos. Desde criança, sempre fui fascinada pelo mundo da tecnologia e os computadores despertaram em mim uma curiosidade que se transformou num interesse que só cresceu com o passar dos anos.
+Oioi, sou Sofia Matos Lessa, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos. Desde criança, sempre fui fascinada pelo mundo da tecnologia e os computadores despertaram em mim uma curiosidade que se transformou num interesse que só cresceu com o passar dos anos.
 
 No final do meu ensino médio, conheci a FATEC e o curso de Análise e Desenvolvimento de Sistemas. Percebi que essa era uma grande oportunidade para ingressar na área tech e desenvolver não só minhas habilidades técnicas, mas também para crescer pessoal e profissionalmente. Em janeiro de 2023, ingressei na FATEC – SJC, onde tenho aprendido e me desafiado constantemente a buscar soluções criativas, e a aprimorar minha visão crítica sobre as tecnologias que transformam o mundo e a sociedade. 
 
@@ -78,7 +78,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Github- Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação: Utilizei aplicativos como Trello e Microsoft Teams, além de participar ativamente de reuniões e trocar mensagens para compartilhar informações, ideias e feedbacks de forma ágil, promovendo um ambiente colaborativo e integrado.
+* Comunicação: Utilizei aplicativos como Trello e Microsoft Teams, além de participar ativamente de reuniões e trocar mensagens para compartilhar informações, ideias e feedbacks de forma ágil, promovendo um ambiente colaborativo e integrado. Um exemplo disso foi quando 
 * Gestão de Tempo: Adotei técnicas de priorização e definição de metas, utilizando ferramentas de planejamento para cumprir os prazos do projeto e maximizar a produtividade.
 * Compromisso: Investi em estudos a parte, e na prática constante de novas tecnologias e frameworks, contribuindo significativamente para o desenvolvimento do front-end e a evolução contínua das minhas habilidades.
 
