@@ -78,7 +78,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Github- Possuo autonomia para ensinar.
   
 ### Soft Skills
-
+* **Criatividade:** Durante a fase de prototipação no Figma, dediquei-me a explorar diversas combinações de layout e paletas de cores para tornar o site mais atraente e intuitivo. Usei minhas habilidades de criatividade para criar componentes visuais únicos.
+* **Flexibilidade:** Em várias reviews de protótipo, recebi críticas e sugestões que iam contra minhas primeiras ideias. Usei minhas habilidades de flexibilidade para reavaliar o design, incorporar o feedback do time e do cliente e ajustar o fluxo de navegação, o que resultou em um protótipo mais alinhado às expectativas de todos. Por exemplo, quando meu protótipo não foi selecionado, prontifiquei-me a ajustar o segundo modelo com as últimas recomendações, garantindo que ele atendesse plenamente às necessidades do cliente.
+* **Comunicação:** Durante o desenvolvimento do projeto, mantive o grupo sempre informado no chat do WhatsApp, compartilhando atualizações sobre o status das minhas tarefas e avisando quando completava cada etapa. Usei minhas habilidades de comunicação para esclarecer dúvidas em tempo real e garantir que ninguém ficasse sem direcionamento.
 
 ### Vídeo do projeto - 1º Semestre: TECH SCHOOL
 
@@ -181,9 +183,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * GitHub - Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação:
-* Gestão de Tempo:
-* Compromisso:
+* Comunicação: Avisava imediatamente no grupo de WhatsApp sempre que alteramos a estrutura da planilha Excel usada como fonte, informando exatamente qual pasta e subpasta no Teams continha o novo arquivo, para que ninguém perdesse tempo procurando ou trabalhado com versão desatualizada.
+* Proatividade: No primeiro dia da sprint, finalizei toda a tarefa de implementação do modo claro, muito antes do prazo e me ofereci em seguida para ajudar colegas em suas demandas, acelerando o progresso geral do time.
+* Trabalho em equipe Assim que entreguei o modo claro, me voluntariei para assumir novas tarefas que ainda estavam pendentes, colaborando diretamente com colegas que precisavam de apoio e assegurando que nenhum item da sprint ficasse para trás.
 
 ### Vídeo do projeto - 3º Semestre: Dashboard Pro4Tech
 
@@ -237,9 +239,10 @@ Durante o desenvolvimento deste projeto, atuei como Product Owner, centralizando
   * Trello - Possuo autonomia para ensinar.
   
 ### Soft Skills
-* Comunicação:
-* Gestão de Tempo:
-* Compromisso:
+* **Comunicação:** Durante as sessões de levantamento de requisitos, mantive contato constante com o cliente JJM Log, enviando perguntas claras e objetivas sempre que surgia uma dúvida da equipe, por exemplo, sobre o fluxograma de processos. Usei minhas habilidades de comunicação para repassar imediatamente ao cliente todas as questões levantadas e garantir que as respostas chegassem ao time em tempo real, evitando retrabalho e atrasos.
+* **Liderança:** Durante a definição das sprints, organizei uma reunião em que estabeleci as prioridades do backlog e esclareci expectativas com toda a equipe. Usei minhas habilidades de liderança para conduzir o debate, alinhar responsabilidades e motivar cada membro a assumir seus cards no Trello, o que aumentou o engajamento e acelerou o ritmo de entrega.
+* **Trabalho em Equipe:** Ao perceber que alguns colegas estavam sobrecarregados, ofereci ajuda para redistribuir tarefas menores e conversei com a professora responsável sobre ajustes de escopo para evitar burnout. Usei minhas habilidades de trabalho em equipe para manter o equilíbrio de esforço e assegurar que ninguém ficasse sem suporte ao longo da sprint.
+* **Gestão de Tempo:** Ao descobrir que tarefas menores estavam travando o progresso geral, reorganizei o backlog para encaixar tarefas rápidas entre atividades maiores, equilibrando urgência e esforço e mantendo as entregas sempre dentro do prazo.
 
 ### Vídeo do projeto - 4º Semestre: WE COLEB
 
@@ -300,10 +303,16 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master, centralizando a c
   * Jira - Sei fazer com autonomia.
   
 ### Soft Skills
-* Comunicação:
-* Gestão de Tempo:
-* Compromisso:
-
+  * **Organização:** Antes mesmo das Sprints Reviews, organizava todas as tarefas no Jira e em uma planilha Excel, detalhando descrições e dependências. Usei minhas habilidades de organização para garantir que cada membro soubesse exatamente o que fazer desde o primeiro dia, evitando sobrecarga e atrasos.
+  * **Empatia:** Notei que uma colega tinha dificuldade com comandos Git Bash. Sendo assim, usei minhas habilidades de empatia para criar e compartilhar um tutorial passo a passo, permitindo que ela ganhasse confiança e autonomia no versionamento de código.
+  * **Proatividade:** No final de cada sprint, realizava testes completos no app e já me antecipava para resolver os bugs encontrados, garantindo entregas estáveis.
+  * **Assertividade:** Sempre cobrava o time para manter o Jira atualizado e seguirmos as convenções de branches e commits. Usei minha assertividade para lembrar os colegas dos padrões previamente definidos, o que manteve o quadro de tarefas sempre organizado e compreensível.
+  * **Liderança:** Aproveitei os horários livres pela manhã para convocar pequenas reuniões de alinhamento sobre o andamento das tarefas. Usei minhas habilidades de liderança para coordenar essas sessões rápidas, garantindo clareza e engajamento do time sem atrapalhar as aulas.
+  * **Pensamento Crítico:** Observei que muitos deixavam commits apenas ao final da tarefa, o que gerava grandes diferenças de código. Usei meu pensamento crítico para propor e promover a prática de commits frequentes, facilitando a revisão incremental e a resolução precoce de conflitos.
+  * **Comunicação:** Para alinhar o padrão de nomenclatura de branches e commits, organizei uma votação no grupo e, em seguida, comuniquei as regras aprovadas de forma clara no chat do whatsapp, deixando claro a maneira que seria adotada.
+  * **Trabalho em Equipe:** Sempre que um colega precisava de ajuda, seja em código, testes ou documentação, disponibilizei-me imediatamente, atuando lado a lado para remover impedimentos e mantendo o ritmo de entrega coletivo. Por exemplo, uma colega estava com dificuldades em realizar o upload do comprovante e eu prontamente com auxílio de outro colega me disponibilizei a ajuda-la na continuidade da tarefa.
+  * **Colaboração:** Lembrei constantemente o time de dar merge em suas branches, alem de rever as tarefas logo após a conclusão para ver se estava tudo correto. Usei minhas habilidades de colaboração para manter o fluxo de integração e reduzir conflitos de merge.
+  
 ### Vídeo do projeto - 5º Semestre: Recibify
 
 https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
