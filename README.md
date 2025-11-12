@@ -320,3 +320,59 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master, centralizando a c
 https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
 
 </details>
+
+<details>
+  <summary><strong>6º Semestre (2025-2): NutriMind</strong></summary>
+  
+O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade da Xertica.ia [escrever a dificuldade].
+
+Solução: [escrever a solução]
+
+* [Link do GitHub - NutriMind (2025-2)](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
+
+### Tecnologias Utilizadas
+  * **Java:**
+  * **Spring Boot:**
+  * **Maven:**
+  * **Swagger:**
+  * **Python:**
+  * **Flask:**
+  * **Google ADK:**
+  * **Vue.JS:**
+  * **JavaScript:**
+  * **CSS:** Aplicado para a estilização e o design visual.
+  * **GIT:** Sistema de controle de versão utilizado para gerenciar o histórico de alterações, organizar branches, manipular commits, atualizar submódulos e integrar diferentes repositórios.
+  * **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
+  * **Jira:** Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe.
+  * **Microsoft Office:** Utilizado para documentação, apresentações e planejamento geral do projeto.
+  * **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
+
+### Contribuições Pessoais
+Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades que abrangeram tanto a implementação de funcionalidades quanto a melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
+  * **Título tarefa:** 
+    
+### Hard Skills
+  * Java - Realizo com auxílio.
+  * Spring Boot - Realizo com auxílio. 
+  * Maven - Realizo com auxílio.
+  * Swagger - Sei fazer com autonomia.
+  * Python - Realizo com auxílio.
+  * FLASK - Sei fazer com autonomia.
+  * Google ADK - Realixo com auxílio.
+  * Vue.JS - Realizo com auxílio.
+  * JavaScript - Realizo com auxílio.
+  * CSS - Sei fazer com autonomia.
+  * GIT - Sei fazer com autonomia.
+  * Figma - Sei fazer com autonomia.
+  * GitHub - Possuo autonomia para ensinar.
+  * Jira - Sei fazer com autonomia.
+  
+### Soft Skills
+
+  
+### Vídeo do projeto - 6º Semestre: NutriMind
+
+colocar o vídeo aqui 
+
+</details>
+
