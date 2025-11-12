@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
 <details>
   <summary><strong>3º Semestre (2024-1): Dashboard Pro4Tech</strong></summary>
   
-O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **Pro4Tech**. A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
+O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **Pro4Tech** especializada em transformação digital, onde atua por meio de soluções que apresentam desde sistemas web, mobile, inteligência artificial, BI, Internet das Coisas (IoT) a RPA (robotização). A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
 
 Solução: Desenvolver uma aplicação web dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
 
@@ -198,7 +198,7 @@ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
 <details>
   <summary><strong>4º Semestre (2024-2): WE COLEB</strong></summary>
   
-O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística **JJM Log**. A necessidade surgiu a partir da dificuldade da JJM Log em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
+O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística **JJM Log**, atual NEWE, especializada em inovação em soluções logísticas, que atua nos setores de agronegócio, medicamentos e transporte aduaneiro, oferecendo serviços ágeis e personalizados para atender às demandas do mercado. A necessidade surgiu a partir da dificuldade da JJM Log em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
 
 Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
 
@@ -255,7 +255,7 @@ https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
 <details>
   <summary><strong>5º Semestre (2025-1): Recibify</strong></summary>
   
-O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **GSW Software**. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionários o mais simples e prático possível, pois a alta demanda de registros manuais gerava erros e atrasos nas análises, prejudicando os colaboradores e gestores.
+O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **GSW Software** especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionários o mais simples e prático possível, pois a alta demanda de registros manuais gerava erros e atrasos nas análises, prejudicando os colaboradores e gestores.
 
 Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação de reembolso, promovendo maior eficiência em todo o processo.
 
