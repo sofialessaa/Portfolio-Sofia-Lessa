@@ -326,7 +326,7 @@ Durante o desenvolvimento do projeto, atuei como Scrum Master, centralizando a c
   * **Empatia:** Notei que uma colega tinha dificuldade com comandos Git Bash. Sendo assim, usei minhas habilidades de empatia para criar e compartilhar um tutorial passo a passo, permitindo que ela ganhasse confiança e autonomia no versionamento de código.
   * **Proatividade:** No final de cada sprint, realizava testes completos no app e já me antecipava para resolver os bugs encontrados, garantindo entregas estáveis.
   * **Assertividade:** Sempre cobrava o time para manter o Jira atualizado e seguirmos as convenções de branches e commits. Usei minha assertividade para lembrar os colegas dos padrões previamente definidos, o que manteve o quadro de tarefas sempre organizado e compreensível.
-  * **Liderança:** Aproveitei os horários livres pela manhã para convocar pequenas reuniões de alinhamento sobre o andamento das tarefas. Usei minhas habilidades de liderança para coordenar essas sessões rápidas, garantindo clareza e engajamento do time sem atrapalhar as aulas.
+  * **Liderança:** Aproveitei os horários livres pela manhã para convocar pequenas reuniões de alinhamento sobre o andamento das tarefas. Usei minhas habilidades de liderança para coordenar essas sessões rápidas, garantindo clareza e engajamento do time.
   * **Pensamento Crítico:** Observei que muitos deixavam commits apenas ao final da tarefa, o que gerava grandes diferenças de código. Usei meu pensamento crítico para propor e promover a prática de commits frequentes, facilitando a revisão incremental e a resolução precoce de conflitos.
   * **Comunicação:** Para alinhar o padrão de nomenclatura de branches e commits, organizei uma votação no grupo e, em seguida, comuniquei as regras aprovadas de forma clara no chat do whatsapp, deixando claro a maneira que seria adotada.
   * **Trabalho em Equipe:** Sempre que um colega precisava de ajuda, seja em código, testes ou documentação, disponibilizei-me imediatamente, atuando lado a lado para remover impedimentos e mantendo o ritmo de entrega coletivo. Por exemplo, uma colega estava com dificuldades em realizar o upload do comprovante e eu prontamente com auxílio de outro colega me disponibilizei a ajuda-la na continuidade da tarefa.
@@ -352,7 +352,8 @@ Solução: Desenvolver um agente conversacional inteligente (IA Generativa), foc
   * **Maven:** Gerencia e automatiza o processo de build no backend JAVA.
   * **Swagger:** Utilizado para facilitar o entendimento da API (Backend JAVA).
   * **Python:** Aplicado no desenvolvimento do Backend resposável pelos agentes de IA.
-  * **Flask:** Utilizado para conectar o backend e o frontend relacionados a parte de IA, viabilizando a troca de mensagens. 
+  * **Flask:** Utilizado para conectar o backend e o frontend relacionados a parte de IA, viabilizando a troca de mensagens.
+  * **PostgreSQL:** Banco de dados utilizado para armazenar os dados da aplicação toda.
   * **Google ADK:** ADK que auxilia na implementação dos múltiplos agente inteligentes.
   * **Gemini:** Modelo de inteligência artificial desenvolvido pelo Google, usado na compreensão e geração de respostas.
   * **Vue.JS:** Utilizado para a construção da interface web.
@@ -365,9 +366,12 @@ Solução: Desenvolver um agente conversacional inteligente (IA Generativa), foc
   * **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
 
 ### Contribuições Pessoais
-Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades principalmente implementações de funcionalidades, mas também melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
-  * **Criação da Anamnese:** Criei no backend a tabela responsável por armazenar os dados de saúde dos usuários
-  * **Controle de versão com Git:** Utilizei o Git como sistema de controle de versão para gerenciar o histórico de alterações no código-fonte do projeto. Realizei operações como atualização de submódulos, organização de branches, manipulação de commits e integração entre repositórios, garantindo rastreabilidade, colaboração eficiente e maior controle sobre o desenvolvimento.
+Durante o desenvolvimento do projeto NutriMind, atuei como desenvolvedor, com forte foco na arquitetura de dados, na implementação das funcionalidades da Inteligência Artificial, melhoria da experiência do usuário e a organização visual. Sendo responsável por estruturar a base de dados de saúde do paciente, garantindo a integridade das relações complexas de anamnese, além de desenvolver a lógica central de visão computacional e análise nutricional integrada ao chat. Seguem as principais contribuições:
+  * **Arquitetura e Modelagem de Dados (Anamnese):** Projetei e implementei a arquitetura do banco de dados relacional para o módulo de saúde. Criei e relacionei tabelas complexas para armazenar histórico de doenças, cirurgias, preferências alimentares, alergias, intolerâncias e atividades físicas, garantindo a normalização e integridade dos dados. Tecnologias utilizadas: Java, Spring Boot e PostgreSQL.
+  * **Desenvolvi API REST (CRUD) da parte de Anamnese:** Desenvolvi a camada de serviços e controladores no backend, implementando o CRUD completo da Anamnese e os métodos de exbição, criação e remoção das demais tabelas relacionadas a saúde, permitindo a comunicação funcional entre o banco de dados e interface do usuário. Tecnologias utilizadas: Java e Spring Boot.
+  * * **Interface e Integração do Perfil do Usuário:** Desenvolvi a interface visual da área de perfil e realizei a integração com o backend para exibição dos dados cadastrados e de saúde do usuário. Tecnologias utilizadas: Vue.js, JavaScript e CSS.
+  * **Desenvolvimento do Agente de Análise Nutricional (IA):** Implementei a lógica de inteligência artificial responsável por receber imagens de refeições, identificar os alimentos presentes e calcular automaticamente as calorias e macronutrientes, devolvendo uma análise precisa ao usuário. Tecnologias utilizadas: Python, Flask, Google ADK e Gemini.
+  * **Processamento de Imagens:** Desenvolvi a solução para o envio de fotos. No Frontend, criei a interface de upload de refeições via chat. No Backend, construí os endpoints REST para recepção, validação e armazenamento seguro dessas imagens para posterior análise da IA. Tecnologias utilizadas: Vue.js, JavaScript, CSS, Java, Spring Boot e PostgreSQL.
     
 ### Hard Skills
   * Java - Realizo com auxílio.
@@ -375,6 +379,7 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Maven - Realizo com auxílio.
   * Python - Realizo com auxílio.
   * FLASK - Sei fazer com autonomia.
+  * PostgreSQL - Sei fazer com autonomia.
   * Google ADK - Realixo com auxílio.
   * Gemini - Realixo com auxílio.
   * Vue.JS - Realizo com auxílio.
@@ -386,7 +391,9 @@ Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo div
   * Jira - Sei fazer com autonomia.
   
 ### Soft Skills
-
+* **Trabalho em Equipe:** Percebi que a integrante responsável pelo frontend da Anamnese tinha dúvidas sobre a estrutura dos dados e a integração com a API. Proativamente, mapeei e documentei todos os campos e endpoints necessários, entregando um guia detalhado que facilitou a conexão entre as camadas e destravou o desenvolvimento da colega.
+* **Pensamento Analítico:** Durante a modelagem do banco de dados da Anamnese, precisei antecipar cenários complexos de saúde (alergias, cirurgias, histórico familiar). Analisei detalhadamente os requisitos para criar uma estrutura relacional que não apenas atendesse ao presente, mas que mantivesse a integridade dos dados a longo prazo.
+* **Adaptabilidade:** Atuei simultaneamente em três ecossistemas diferentes (Java/Spring para o sistema principal, Python/Flask para a IA, Vue+CSS+JavaScript para a interface web). Demonstrei flexibilidade para alternar entre linguagens e paradigmas distintos dentro do mesmo projeto, garantindo que ambas as partes do sistema conversassem perfeitamente.
   
 ### Vídeo do projeto - 6º Semestre: NutriMind
 
