@@ -25,7 +25,7 @@ Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especia
 
 </div>
   
-## 💻 Meus Principais Conhecimentos
+## Meus Principais Conhecimentos
 
 Embora eu me identifique especialmente com a área de dados, também possuo experiência e conhecimento nas tecnologias voltadas ao desenvolvimento back-end e front-end, além de demonstrar interesse pela área de desenvolvimento full stack.
 
