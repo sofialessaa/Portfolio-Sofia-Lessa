@@ -341,22 +341,22 @@ https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
 <details>
   <summary><strong>6º Semestre (2025-2): NutriMind</strong></summary>
   
-O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação na América Latina por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade da Xertica.ia [escrever a dificuldade].
+O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade de muitas pessoas de não terem acesso a profissionais da área de nutrição por seu elevado custo. Ocasionando dificuldades em ter um suporte personalizado com base na saúde do paciente por limitações de logísticas e financeiros. 
 
-Solução: [escrever a solução]
+Solução: Desenvolver um agente conversacional inteligente (IA Generativa), focado em interagir de forma natural com o usuário, e principlamente, com suporte personalizado na área de nutrição e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos de dieta, além de dar suporte respondendo perguntas relacionadas à bem-estar e nutrição.
 
 * [Link do GitHub - NutriMind (2025-2)](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
 
 ### Tecnologias Utilizadas
-  * **Java:**
-  * **Spring Boot:**
-  * **Maven:**
-  * **Swagger:**
-  * **Python:**
-  * **Flask:**
-  * **Google ADK:**
-  * **Vue.JS:**
-  * **JavaScript:**
+  * **Java + Spring Boot:** Aplicado no backend do projeto, sendo responsável pela gestão dos dados de saúde e pessoal do paciente, além de administrar o controle de acesso à plataforma.
+  * **Maven:** Gerencia e automatiza o processo de build no backend JAVA.
+  * **Swagger:** Utilizado para facilitar o entendimento da API (Backend JAVA).
+  * **Python:** Aplicado no desenvolvimento do Backend resposável pelos agentes de IA.
+  * **Flask:** Utilizado para conectar o backend e o frontend relacionados a parte de IA, viabilizando a troca de mensagens. 
+  * **Google ADK:** ADK que auxilia na implementação dos múltiplos agente inteligentes.
+  * **Gemini:** Modelo de inteligência artificial desenvolvido pelo Google, usado na compreensão e geração de respostas.
+  * **Vue.JS:** Utilizado para a construção da interface web.
+  * **JavaScript:** Linguagem utilizada para conectar o backend com o frontend.
   * **CSS:** Aplicado para a estilização e o design visual.
   * **GIT:** Sistema de controle de versão utilizado para gerenciar o histórico de alterações, organizar branches, manipular commits, atualizar submódulos e integrar diferentes repositórios.
   * **Figma:** Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação.
@@ -365,17 +365,18 @@ Solução: [escrever a solução]
   * **GitHub:** Utilizado para hospedagem do código e documentação do projeto.
 
 ### Contribuições Pessoais
-Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades que abrangeram tanto a implementação de funcionalidades quanto a melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
-  * **Título tarefa:** 
+Durante o desenvolvimento deste projeto, atuei como desenvolvedor, assumindo diversas responsabilidades principalmente implementações de funcionalidades, mas também melhoria da experiência do usuário e a organização visual. Seguem as principais contribuições:
+  * **Criação da Anamnese:** Criei no backend a tabela responsável por armazenar os dados de saúde dos usuários
+  * **Controle de versão com Git:** Utilizei o Git como sistema de controle de versão para gerenciar o histórico de alterações no código-fonte do projeto. Realizei operações como atualização de submódulos, organização de branches, manipulação de commits e integração entre repositórios, garantindo rastreabilidade, colaboração eficiente e maior controle sobre o desenvolvimento.
     
 ### Hard Skills
   * Java - Realizo com auxílio.
   * Spring Boot - Realizo com auxílio. 
   * Maven - Realizo com auxílio.
-  * Swagger - Sei fazer com autonomia.
   * Python - Realizo com auxílio.
   * FLASK - Sei fazer com autonomia.
   * Google ADK - Realixo com auxílio.
+  * Gemini - Realixo com auxílio.
   * Vue.JS - Realizo com auxílio.
   * JavaScript - Realizo com auxílio.
   * CSS - Sei fazer com autonomia.
