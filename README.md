@@ -10,20 +10,10 @@ Durante esses anos, tive a oportunidade de aprender diversas tecnologias, como T
 
 Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especializada principalmente em soluções de Internet das Coisas (IoT), capturando e analisando dados de sensores conectados para gerar insights que otimizam processos e suportam a tomada de decisão. Atuo no desenvolvimento de soluções IoT (integrando hardware e software), criação de dashboards, aplicativos, sistemas web e outras ferramentas de análise de dados para atender às necessidades dos clientes.
 
-<div align="left">
-
-  ## Contatos
-  <a href="https://www.linkedin.com/in/sofiamatoslessa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/sofialessaa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:sofialessa@outlook.com.br">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-
-</div>
+## Contatos
+* [GIT](https://www.github.com/sofialessaa)
+* [LinkedIn](https://www.linkedin.com/in/sofiamatoslessa)
+* E-mail: sofialessa@outlook.com.br
   
 ## Meus Principais Conhecimentos
 
