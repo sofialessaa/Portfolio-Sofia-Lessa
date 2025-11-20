@@ -17,7 +17,7 @@ Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especia
   
 ## Meus Principais Conhecimentos
 
-Embora eu me identifique especialmente com a área de dados, também possuo experiência e conhecimento nas tecnologias voltadas ao desenvolvimento back-end e front-end, além de demonstrar interesse pela área de desenvolvimento full stack.
+Embora eu me identifique especialmente com a área de dados, também possuo experiência e conhecimento nas tecnologias voltadas ao desenvolvimento back-end e front-end, além de demonstrar interesse pela área de desenvolvimento full stack. Entre as tecnologias que domino estão:
 
 <div align="left">
 
@@ -33,7 +33,6 @@ Embora eu me identifique especialmente com a área de dados, também possuo expe
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
