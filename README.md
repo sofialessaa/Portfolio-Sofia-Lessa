@@ -420,7 +420,7 @@ Durante o desenvolvimento do projeto NutriMind, atuei como desenvolvedor, com fo
 * **Trabalho em Equipe:** Percebi que a integrante responsável pelo frontend da Anamnese tinha dúvidas sobre a estrutura dos dados e a integração com a API. Proativamente, mapeei e documentei todos os campos e endpoints necessários, entregando um guia detalhado que facilitou a conexão entre as camadas e destravou o desenvolvimento da colega.
 * **Pensamento Analítico:** Durante a modelagem do banco de dados da Anamnese, precisei antecipar cenários complexos de saúde (alergias, cirurgias, histórico familiar). Analisei detalhadamente os requisitos para criar uma estrutura relacional que não apenas atendesse ao presente, mas que mantivesse a integridade dos dados a longo prazo.
 * **Colaboração:** Ao notar que um colega enfrentava dificuldades técnicas em sua tarefa de edição automática da anamnese, me coloquei prontamente à disposição para auxiliar. Atuamos em conjunto na identificação e correção do bug, garantindo o avanço e a conclusão da atividade dele.
-* **Proatividade:** Identifiquei uma demanda urgente que ainda não tinha responsável alocado. Assumi a iniciativa de pegar a tarefa para mim e executei a solução necessária o mais rápido possível, evitando problemas no cronograma do projeto.
+* **Proatividade:** Identifiquei uma demanda urgente (markdown do chat) que ainda não tinha responsável alocado. Assumi a iniciativa de pegar a tarefa para mim e executei a solução necessária o mais rápido possível, evitando problemas na entrega do projeto.
   
 ### Vídeo do projeto - 6º Semestre: NutriMind
 
