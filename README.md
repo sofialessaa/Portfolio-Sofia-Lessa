@@ -63,7 +63,7 @@ Embora eu me identifique especialmente com a área de dados, também possuo expe
   
 O projeto desenvolvido no primeiro semestre do curso teve como parceiro o cliente interno **Antônio Egydio São Tiago Graça** - FATEC São José dos Campos – SP. A necessidade surgiu a partir do interesse da empresa em implementar o método ágil SCRUM no ambiente de trabalho. No entanto, os colaboradores ainda não possuíam conhecimento suficiente sobre a metodologia, o que dificultava sua aplicação prática no dia a dia. 
 
-Solução: Desenvolver um site informativo simples e funcional sobre a metodologia ágil SCRUM. O site deve apresentar conceitos, fundamentos e exemplos práticos, complementados por avaliações interativas para os usuários. A proposta foi auxiliar na comunicação e incentivar o uso da metodologia, contribuindo para uma melhor organização e eficiência dos funcionários. 
+**Solução:** Desenvolver um site informativo simples e funcional sobre a metodologia ágil SCRUM. O site deve apresentar conceitos, fundamentos e exemplos práticos, complementados por avaliações interativas para os usuários. A proposta foi auxiliar na comunicação e incentivar o uso da metodologia, contribuindo para uma melhor organização e eficiência dos funcionários. 
 
 * [Link do github - TECH SCHOOL (2023-1)](https://github.com/DianneFaria/Projeto-de-API-1-Semestre)
 
@@ -125,7 +125,7 @@ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
 
 O projeto desenvolvido no segundo semestre do curso teve como parceiro o cliente interno **Giuliano Araujo Bertoti** - FATEC São José dos Campos – SP. A necessidade surgiu a partir da dificuldades dos usuários de analisarem documentos extensos de forma eficaz e rápida, sobretudo na busca de informações específicas.  
 
-Solução: Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e txt, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
+**Solução:** Desenvolver um modelo de ChatBot (assistente virtual) capaz de analisar documentos enviados pelos usuários, como pdf e txt, a partir disso responder de forma interativa e objetiva as perguntas sobre o conteúdo. Alem disso, o usuário tera acesso ao histórico de conversa com o ChatBot caso queira revisitar as interações anteriores.
 
 * [Link do GitHub - Assistente Zari (2023-2)](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
   
 O projeto desenvolvido no terceiro semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **Pro4Tech** especializada em transformação digital, onde atua por meio de soluções que apresentam desde sistemas web, mobile, inteligência artificial, BI, Internet das Coisas (IoT) a RPA (robotização). A necessidade surgiu a partir da dificuldade da Pro4Tech em consolidar e interpretar dados massivos, armazenados em planilhas Excel, o que tornava lento o acompanhamento de vendas, clientes e indicadores de desempenho, além de comprometer a agilidade e a precisão na tomada de decisões estratégicas.
 
-Solução: Desenvolver uma aplicação web dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
+**Solução:** Desenvolver uma aplicação web dinâmica e eficiente para análise de dados de vendas, utilizando planilhas Excel como fonte de informação. A aplicação organiza esses dados em dashboards interativos e tabelas com filtros personalizados, oferecendo uma ferramenta acessível e intuitiva que permite à empresa entender melhor seu desempenho comercial e tomar decisões estratégicas com mais precisão.
 
 * [Link do GitHub - Dashboard Pro4Tech (2024-1)](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
@@ -230,7 +230,7 @@ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
   
 O projeto desenvolvido no quarto semestre do curso teve como parceiro um cliente externo, a empresa de Logística **JJM Log**, atual NEWE, especializada em inovação em soluções logísticas, que atua nos setores de agronegócio, medicamentos e transporte aduaneiro, oferecendo serviços ágeis e personalizados para atender às demandas do mercado. A necessidade surgiu a partir da dificuldade da JJM Log em administrar seus processos internos, o que comprometia a eficácia da comunicação e a transparência entre os diversos departamentos, gerando falhas no controle de entregas, uso excessivo de recursos, baixa visibilidade das operações logísticas e problemas na interação entre RH e funcionários, dificultando o armazenamento e a organização dos documentos dos colaboradores.  
 
-Solução: Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
+**Solução:** Desenvolver um sistema web completo em ambiente de produção, com regras de negócio complexas e deploy automatizado, focado em otimizar fluxos de trabalho e fortalecer a colaboração dos departamentos da JJM Log: registro de entregas detalhadas, RH gerencia documentos de funcionários de forma eficaz, cadastro de clientes,  solicitações de serviço. Tudo isso ofereceu informações rapidas e organizadas em tempo real entre os departamentos.
 
 * [Link do GitHub - WE COLEB (2024-2)](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
 
@@ -292,7 +292,7 @@ https://github.com/user-attachments/assets/bb71b67d-0bf2-403c-a41c-c248c59d1702
 
 O projeto desenvolvido no quinto semestre do curso teve como parceiro um cliente externo, a empresa de Tecnologia **GSW Software** especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM. A necessidade surgiu a partir da dificuldade da GSW Software em se organizar e tornar o processo de reembolso de funcionários o mais simples e prático possível, pois a alta demanda de registros manuais gerava erros e atrasos nas análises, prejudicando os colaboradores e gestores.
 
-Solução: O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação de reembolso, promovendo maior eficiência em todo o processo.
+**Solução:** O projeto teve o desenvolvimento de um aplicativo móvel que permite aos usuários registrar reembolsos de despesas, anexar comprovantes, incluir descrições e acompanhar o status de aprovação das solicitações. Ademais, foi criado um sistema web corporativo no qual o gerente monitora as despesas e pode alterar o status de cada solicitação de reembolso, promovendo maior eficiência em todo o processo.
 
 * [Link do GitHub - Recibify (2025-1)](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
@@ -364,9 +364,9 @@ https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
   &nbsp; NutriMind
 </h2>
 
-O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade de muitas pessoas de não terem acesso a profissionais da área de nutrição por seu elevado custo. Ocasionando dificuldades em ter um suporte personalizado com base na saúde do paciente por limitações de logísticas e financeiros. 
+O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade de muitas pessoas de não terem acesso a profissionais da área da nutrição por limitações de logísticas e financeiras, ocasionando dificuldades em ter um suporte personalizado com base na saúde do paciente. 
 
-Solução: Desenvolver um agente conversacional inteligente (IA Generativa), focado em interagir de forma natural com o usuário, e principlamente, com suporte personalizado na área de nutrição e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos de dieta, além de dar suporte respondendo perguntas relacionadas à bem-estar e nutrição.
+**Solução:** Desenvolver um agente conversacional inteligente (IA Generativa), focado em interagir de forma natural com o usuário, e principlamente, com suporte personalizado na área de nutrição e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos de dieta, além de dar suporte respondendo perguntas relacionadas à bem-estar e nutrição.
 
 * [Link do GitHub - NutriMind (2025-2)](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
 
