@@ -424,7 +424,9 @@ Durante o desenvolvimento do projeto NutriMind, atuei como desenvolvedor, com fo
   
 ### Vídeo do projeto - 6º Semestre: NutriMind
 
-colocar o vídeo aqui 
+
+https://github.com/user-attachments/assets/3ea0e924-785b-481e-bc5b-726fb2e8234a
+
 
 </details>
 
