@@ -366,7 +366,7 @@ https://github.com/user-attachments/assets/94c29cc8-6a87-46c7-b28e-c3a642d5e4c1
 
 O projeto desenvolvido no sexto semestre do curso teve como parceiro um cliente externo, a empresa **Xertica.ia** especializada em soluções GenAI e consultoria em nuvem que promove a inovação por meio da inteligência artificial responsável. A necessidade surgiu a partir da dificuldade de muitas pessoas de não terem acesso a profissionais da área da nutrição por limitações de logísticas e financeiras, ocasionando dificuldades em ter um suporte personalizado com base na saúde do paciente. 
 
-**Solução:** Desenvolver um agente conversacional inteligente (IA Generativa), focado em interagir de forma natural com o usuário, e principlamente, com suporte personalizado na área de nutrição e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos de dieta, além de dar suporte respondendo perguntas relacionadas à bem-estar e nutrição.
+**Solução:** Desenvolver um agente conversacional inteligente (IA Generativa), focado em interagir de forma natural com o usuário, e principalmente, com suporte personalizado na área de nutrição e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos de dieta, além de dar suporte respondendo perguntas relacionadas à bem-estar e nutrição.
 
 * [Link do GitHub - NutriMind (2025-2)](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
 
