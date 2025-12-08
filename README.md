@@ -8,7 +8,7 @@ No final do meu ensino médio, conheci a FATEC e o curso de Análise e Desenvolv
 
 Durante esses anos, tive a oportunidade de aprender diversas tecnologias, como TypeScript, Python, JavaScript, React, MySQL, AWS e Azure, por meio dos projetos realizados na faculdade. Além dos conhecimentos técnicos, desenvolvi habilidades interpessoais e adquiri experiência com metodologias ágeis, atuando como integrante do Dev Team, Product Owner e Scrum Master.
 
-Em junho de 2025, ingressei como estagiária na Ito1 Technology, empresa especializada principalmente em soluções de Internet das Coisas (IoT), capturando e analisando dados de sensores conectados para gerar insights que otimizam processos e suportam a tomada de decisão. Atuo no desenvolvimento de soluções IoT (integrando hardware e software), criação de dashboards, aplicativos, sistemas web e outras ferramentas de análise de dados para atender às necessidades dos clientes.
+Em junho até novembro de 2025, ingressei como estagiária na Ito1 Technology, empresa especializada principalmente em soluções de Internet das Coisas (IoT), capturando e analisando dados de sensores conectados para gerar insights que otimizam processos e suportam a tomada de decisão. Atuei no desenvolvimento de soluções IoT (integrando hardware e software), criação de dashboards, aplicativos, sistemas web e outras ferramentas de análise de dados para atender às necessidades dos clientes.
 
 ## Contatos
 * [GIT](https://www.github.com/sofialessaa)
