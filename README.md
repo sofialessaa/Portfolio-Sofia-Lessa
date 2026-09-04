@@ -1,6 +1,5 @@
 # Portfólio - Sofia Matos Lessa
 
-<img align="right" src="https://github.com/user-attachments/assets/7b6aa066-688b-44c1-8e17-304a2abc38d2" width="200">
 
 Oioi, sou Sofia Matos Lessa, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos. Desde criança, sempre fui fascinada pelo mundo da tecnologia e os computadores despertaram em mim uma curiosidade que se transformou num interesse que só cresceu com o passar dos anos.
 
